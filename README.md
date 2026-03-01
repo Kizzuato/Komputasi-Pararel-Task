@@ -1,9 +1,13 @@
 Parallel Computing Assignment - IFB 206
 
 Name: Dzakiyya Puteri Aulia
+
 NRP: 152024127
+
 Course: IFB 206 Komputasi Paralel dan Sistem Terdistribusi 
+
 Lecturer: Lisa Kristiana, PhD
+
 GitHub Link: [text](https://github.com/Kizzuato/Komputasi-Pararel-Task)
 
 Project Overview
